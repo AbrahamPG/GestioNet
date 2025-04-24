@@ -31,7 +31,7 @@ Trabajo en Equipo 👥: Creemos que el éxito es colectivo y que cada miembro es
 
 Nuestro equipo está formado por personas apasionadas por la tecnología y el desarrollo de software. Con una gran experiencia en la creación de soluciones para empresas, trabajamos juntos para hacer que cada proyecto sea exitoso:
 
-[Tu Nombre] - Fundador y CEO
+Abraham Josue Pacheco Garrido - Fundador y CEO
 
 [Nombre del Integrante] - Director de Tecnología (CTO)
 
